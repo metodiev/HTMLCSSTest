@@ -1,0 +1,57 @@
+.wrapper{
+    
+    margin-top: 4%;
+    background-color: #FAFAFA;
+    height: 89%;
+}
+
+#image{
+    background-image: url('img/youtube.png')
+}
+
+.list_style{
+    list-style-type: none;
+    margin: 0;
+    width: 200px;
+}
+
+li a{
+    display: block;
+    padding: 10px 10px;
+    text-decoration: none;
+    color: black;
+}
+
+li a:hover{
+    display: block;
+    background-color: #DFDFDF;
+
+
+}
+
+.youtube_nav{
+    background: red;
+    width: 200px;
+    height: 110px;
+    
+    display: inline-block;
+    text-decoration: none;
+   
+}
+
+.div a:hover{
+    background-color: black;
+}
+
+.div{
+    margin-right: 20%;
+    right: 100px;
+    margin: 50px;
+}
+
+
+hr{
+    color: #E2E2E2;
+    margin-right: 170px; 
+    margin-left: 50px; 
+}
